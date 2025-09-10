@@ -1,47 +1,66 @@
-# 💫 About Me:
-👋 Hey there! I'm **Saksham Gupta**  
-🎓 B.Tech CSE student specializing in **AI & ML**  
-💡 Passionate about **Machine Learning, Artificial Intelligence, and Software Development**  
-🚀 I enjoy working on projects that combine **Computer Vision, Generative AI, and Real-World Problem Solving**  
+<h1 align="center">Hey 👋, I'm Saksham Gupta</h1>
+<h3 align="center">🚀 AI & ML Enthusiast | 💻 Software Developer | 🤖 Computer Vision Explorer</h3>
 
 ---
 
-## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-gupta-643122289) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamgupta0531@gmail.com)
+## 🌟 About Me  
+- 🎓 Pursuing **B.Tech in CSE (AI & ML Specialization)**  
+- 🔭 Currently exploring **Generative AI, Deep Learning & Computer Vision**  
+- 🌱 Learning **MLOps & Scalable AI Systems**  
+- 💡 Love building **projects that mix creativity + AI to solve real-world problems**  
+- ⚡ Fun fact: *I believe coffee fuels code ☕ + 🚀*  
 
 ---
 
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+## 🌐 Connect with Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/saksham-gupta-643122289" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sakshamgupta0531@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
+## ⚙️ Tech Stack  
 
-![](https://github-readme-stats.vercel.app/api?username=Saksham-Gupta0531&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Gupta0531&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Gupta0531&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,numpy,pandas,matplotlib,sklearn,plotly,git,github,html,css,js" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=Saksham-Gupta0531&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats & Activity  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Saksham-Gupta0531&show_icons=true&theme=radical" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Gupta0531&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Gupta0531&layout=compact&theme=radical" height="170"/>
+</p>
 
 ---
 
-## 👀 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=Saksham-Gupta0531&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Featured Projects  
+- 🎨 **Fusion-Threads** → *3D Interactive Fashion Try-On with Generative AI*  
+- 🤖 **Smart Chair** → *Hand Gesture Controlled Chair with OpenCV & Raspberry Pi*  
+- 💊 **Pharmacy Management System** → *Inventory & Customer Tracking with Python + MySQL*  
+- 🔮 **Electricity Load Prediction** → *Time-series ML Model for Delhi Power Forecasting*  
 
 ---
 
-✨ *"Turning ideas into code and code into impact!"*  
+## 🏆 Achievements  
+- 🥇 **2x National Hackathon Winner**  
+- 💼 Internships: *IBM, Baoiam Pvt Ltd, Prodigy Infon Tech*  
+- 🚀 Built projects in **AI, Generative Models, Web Apps, Robotics, and Data Science**  
+
+---
+
+## 🎶 A Little Extra Fun  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=FF5733&center=true&vCenter=true&width=500&lines=Machine+Learning+Explorer;Generative+AI+Creator;Full+Stack+Developer;Hackathon+Winner+🏆;Always+Learning+New+Things!">
+</p>
