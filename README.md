@@ -29,7 +29,7 @@ I am a B.Tech CSE student and a highly driven **AI/ML & Full-Stack Engineer**. I
 
 > **[✅ CheckMate](#)** > ***Fighting misinformation in real-time.*** An AI-powered browser extension that utilizes advanced NLP and machine learning pipelines to actively fact-check content, verify claims, and provide transparent source validation on the fly.
 
-> **[🔮 SAGE](#)** > ***Next-generation autonomy.*** An advanced AI agent framework and generative system designed for complex multi-step reasoning, dynamic workflow execution, and intelligent data synthesis.
+> **[🦾 SAGE (Smart Autonomous Gesture-controlled Equipment)](#)** > ***Touchless navigation via Computer Vision.*** An intelligent chair system that utilizes real-time hand gesture recognition to control movement. Built to significantly improve accessibility and user convenience through seamless, touchless navigation.
 
 ---
 
